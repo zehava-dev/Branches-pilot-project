@@ -1,3 +1,3 @@
 const a =()=>{
-    alert("a")
+    return "a"
 }
