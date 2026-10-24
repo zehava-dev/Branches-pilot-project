@@ -4,7 +4,7 @@ const a =()=>{
 }
 
 const c =()=>{
-    alert("c")
+    alert("e")
     return "c"
 }
 
